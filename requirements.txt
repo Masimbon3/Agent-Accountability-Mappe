@@ -1,0 +1,6 @@
+# Agent Accountability Mapper
+# Currently a pure-Python prototype (no external dependencies required)
+# Future versions will add:
+#   openai or anthropic for LLM generation
+#   chromadb or similar for RAG over governance patterns
+#   pydantic for structured output validation
